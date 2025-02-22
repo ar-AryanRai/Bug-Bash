@@ -1,0 +1,16 @@
+.kill {
+  pointer-events: none;
+}
+
+.message,
+.message2,
+.message3,
+.message4 {
+  padding: 15px 100px;
+}
+
+.message2,
+.message3,
+.message4 {
+  opacity: 0;
+}
