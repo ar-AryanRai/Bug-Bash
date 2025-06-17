@@ -9,8 +9,7 @@
 
 ## 🕹️ About the Game
 
-Built with **React**, **GSAP**, **Tailwind CSS**, and a dash of creativity, **Bug Bash** challenges players to click on a fast-moving fly that appears randomly across the screen. The longer you last, the faster it moves.
-
+Built with **React**, **GSAP**, **Tailwind CSS**, and a dash of creativity, **Bug Bash** challenges players to click on a fast-moving fly that appears randomly across the screen. It moves fast and just when you click on it right then it will fly away so, you have to be quick and slow to move racket to the fly.
 ⚠️ Miss the fly... and it might just buzz away mocking your slow reflexes!
 
 ---
@@ -31,7 +30,7 @@ Built with **React**, **GSAP**, **Tailwind CSS**, and a dash of creativity, **Bu
 - 🏓 Click detection with "squash" feedback  
 - 💥 GSAP-powered fly movements and hit effects  
 - 🎨 Stylized racket and bug visuals  
-- 🔁 Replay functionality to keep chasing that high score  
+- 🔁 Replay functionality 
 - 📱 Fully responsive and mobile-friendly  
 
 ---
