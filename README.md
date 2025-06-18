@@ -2,7 +2,7 @@
 
 **Bug Bash** is a fast-paced reaction game where your mission is simple (but not easy): **Click on the fly before it flies away!** Armed with just a digital racket and your reflexes, can you squash the bug before it escapes?
 
-🎮 **Live Game**: [bug-bash.netlify.app](https://bug-bash.netlify.app/)  
+🎮 **Live Game**: [Click here to visit bug-bash game](https://bug-bash.netlify.app/)  
 
 ---
 
