@@ -49,8 +49,11 @@ const App = () => {
     <div
       className="container bg-[#1c1c1c] h-screen flex justify-center items-center overflow-hidden relative"
       onMouseMove={(dets) => {
-        setMouseX(dets.clientX - 830);
-        setMouseY(dets.clientY - 360);
+        const centerX = window.innerWidth / 2;
+  const centerY = window.innerHeight / 2;
+
+  setMouseX(dets.clientX - centerX);
+  setMouseY(dets.clientY - centerY);
       }}
     >
       <div className="message bg-orange-400 absolute top-10 text-xl rounded-3xl font-semibold text-[#1c1c1c]">
